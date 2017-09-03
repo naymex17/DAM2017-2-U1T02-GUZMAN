@@ -1,1 +1,3 @@
-# DAM2017-2-U1T02-GUZMAN
+Integrantes:
+Guzman Gutierrez Jorge Alberto
+Luna Padilla Luis Donaldo
